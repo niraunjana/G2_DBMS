@@ -26,12 +26,17 @@ create table student(rollno int, name char(20), age int, address varchar(20), ph
 
 ### OUTPUT:
 
+![WhatsApp Image 2023-09-29 at 20 48 29](https://github.com/niraunjana/G2_DBMS/assets/119395610/aee84216-b2d8-4542-8964-d1777239369d)
+
 ### 2) Change the above student table by adding another attribute department
 
 ### SQL QUERY: 
 alter table student add department char(30)
 
 ### OUTPUT:
+
+![WhatsApp Image 2023-09-29 at 20 48 54](https://github.com/niraunjana/G2_DBMS/assets/119395610/eb1cd98d-860f-4ffd-befc-37a3e2bc6b4b)
+
 
 
 ### 3) Drop the student table
@@ -43,6 +48,8 @@ drop table student;
 
 ### OUTPUT:
 
+![WhatsApp Image 2023-09-29 at 20 49 18](https://github.com/niraunjana/G2_DBMS/assets/119395610/f353625d-b2f5-4d68-b661-6cc24bf9cd31)
+
 
 ### 4) Delete the student table using truncate keyword
 
@@ -52,6 +59,8 @@ truncate table student
 
 
 ### OUTPUT:
+
+![WhatsApp Image 2023-09-29 at 20 49 43](https://github.com/niraunjana/G2_DBMS/assets/119395610/51d9e06c-6cf1-4cbc-9dc7-9c1482631733)
 
 
 
@@ -63,3 +72,10 @@ alter table student rename to mystudent;
 
 
 ### OUTPUT:
+
+![WhatsApp Image 2023-09-29 at 20 50 07](https://github.com/niraunjana/G2_DBMS/assets/119395610/f115e277-e36d-4828-80b1-b384496918dd)
+
+### Result :
+
+To create a student database and execute DDL queries using SQL is executed successfully.
+
